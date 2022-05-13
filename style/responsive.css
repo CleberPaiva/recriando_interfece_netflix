@@ -4,6 +4,11 @@
         flex-direction: column;
     }
 
+    .filme-principal{
+        background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/batman-capa-a.jpg');
+        background-size: cover; 
+    }
+
     .botao{
         margin-top: 5px;
         width: 300px;
